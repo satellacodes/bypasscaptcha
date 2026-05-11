@@ -1,4 +1,4 @@
-# LinkUMKM Automation Bot
+# Automation Bot
 
 Automation bot for:
 
