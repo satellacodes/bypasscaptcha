@@ -1,9 +1,10 @@
 from loguru import logger
+
 from utils.browser import create_browser
 from utils.captcha import solve_captcha
 from utils.helpers import human_delay
 
-REGISTER_URL = "https://linkumkm.id/register"
+REGISTER_URL = "your-address-webite/register"
 
 
 async def register_user(row):
